@@ -1,0 +1,1 @@
+{"index.js":"function testSize(num) {\n  // Only change code below this line\n  if(num<5){\n    return \"Tiny\"\n  }\n else if(num < 10){ return \"Small\"}\nelse if(num < 15 ){ return \"Medium\"}\nelse if (num < 20 ){ return \"Large\"}\nelse if (num >= 20 ){ return \"Huge\" }\n  \n  // Only change code above this line\n}\n\n// Change this value to test\ntestSize(7);"}
